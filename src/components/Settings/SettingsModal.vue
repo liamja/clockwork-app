@@ -85,7 +85,7 @@
 				<div class="controls">
 					<label class="controls-checkbox">
 						<input type="checkbox" v-model="$settings.global.showIncomingRequests" @change="save">
-						Foxus incoming requests
+						Focus incoming requests
 					</label>
 					<label class="controls-checkbox">
 						<input type="checkbox" v-model="$settings.global.preserveLog" @change="save">
